@@ -1,0 +1,8 @@
+.pytest_cache/**
+.env
+.vscode/**
+.python-version
+
+/.vscode/settings.json
+**/__pycache__/**
+.idea
